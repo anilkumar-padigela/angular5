@@ -1,0 +1,12 @@
+#leftbody{
+    width: 65%;
+    margin: 10px;
+    float:left;
+
+
+}
+#rightbody{
+    widows: 32%;
+    margin:10px;
+    float:left;
+}

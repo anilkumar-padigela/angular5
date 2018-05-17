@@ -1,0 +1,30 @@
+.course{
+
+    background-color: aquamarine;
+    width: 200px;
+    height: 240px;
+    float: left;
+    margin: 10px;
+    box-shadow: 2px 2px 3 px lavender;
+}
+.coursepic{
+    width: 100%;
+    height: 100px;
+}
+
+.course img {
+    width: 100%;
+    height: 100%;
+}
+.price{
+
+    text-align: center;
+    margin: 10px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+}
